@@ -1,5 +1,5 @@
 import Day6
-def match_consistent(answer: str, lines):
+def match_consistent(answer: str, lines:list):
     length = len(answer.split())
 
     result = False
@@ -20,16 +20,11 @@ def match_consistent(answer: str, lines):
                 if Day6.normalize(combine) == Day6.normalize(answer):
                     result = True
                     print("匹配文字：", combine)
-                    print("原始坐标：", [word["boundingBox"] for word in selected])
-                    break
+                    boxes = [word["boundingBox"] for word in selected]
+                    print("原始坐标：", boxes)
+                    return True, boxes
 
                 i += 1
 
-        if result:
-            break
-
-    if not result:
-        print("no matching results")
-
-        
-    return result
+    print("no matching results")
+    return False, []
