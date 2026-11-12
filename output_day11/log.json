@@ -1,0 +1,62 @@
+[
+  {
+    "question_Id": 24580,
+    "answer": "university of california, san diego",
+    "image_path": "../Text recognition/数据集raw docvqa/spdocvqa_images/nkbl0226_1.png",
+    "matched": "UNIVERSITY OF CALIFORNIA, SAN DIEGO"
+  },
+  {
+    "question_Id": 57349,
+    "answer": "itc limited",
+    "image_path": "../Text recognition/数据集raw docvqa/spdocvqa_images/snbx0223_22.png",
+    "matched": "ITC Limited"
+  },
+  {
+    "question_Id": 24581,
+    "answer": "san diego",
+    "image_path": "../Text recognition/数据集raw docvqa/spdocvqa_images/nkbl0226_1.png",
+    "matched": "SAN DIEGO"
+  },
+  {
+    "question_Id": 39079,
+    "answer": "1128 SIXTEENTH ST., N. W., WASHINGTON, D. C. 20036",
+    "image_path": "../Text recognition/数据集raw docvqa/spdocvqa_images/qqvf0227_1.png",
+    "matched": "1128 SIXTEENTH ST., N. W., WASHINGTON, D. C. 20036"
+  },
+  {
+    "question_Id": 57357,
+    "answer": "aashirvaad",
+    "image_path": "../Text recognition/数据集raw docvqa/spdocvqa_images/snbx0223_22.png",
+    "matched": "AASHIRVAAD"
+  },
+  {
+    "question_Id": 24426,
+    "answer": "The Robert A. Welch Foundation",
+    "image_path": "../Text recognition/数据集raw docvqa/spdocvqa_images/zxfk0226_13.png",
+    "matched": "THE ROBERT A. WELCH FOUNDATION"
+  },
+  {
+    "question_Id": 49172,
+    "answer": "TRRF Vice President",
+    "image_path": "../Text recognition/数据集raw docvqa/spdocvqa_images/txpp0227_10.png",
+    "matched": "TRRF Vice President"
+  },
+  {
+    "question_Id": 57368,
+    "answer": "2",
+    "image_path": "../Text recognition/数据集raw docvqa/spdocvqa_images/snbx0223_44.png",
+    "matched": "2"
+  },
+  {
+    "question_Id": 57370,
+    "answer": "2",
+    "image_path": "../Text recognition/数据集raw docvqa/spdocvqa_images/snbx0223_44.png",
+    "matched": "2"
+  },
+  {
+    "question_Id": 57371,
+    "answer": "6",
+    "image_path": "../Text recognition/数据集raw docvqa/spdocvqa_images/snbx0223_44.png",
+    "matched": "6"
+  }
+]

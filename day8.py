@@ -22,9 +22,9 @@ def match_consistent(answer: str, lines:list):
                     print("匹配文字：", combine)
                     boxes = [word["boundingBox"] for word in selected]
                     print("原始坐标：", boxes)
-                    return True, boxes
+                    return True, boxes, combine
 
                 i += 1
 
     print("no matching results")
-    return False, []
+    return False, [], []
